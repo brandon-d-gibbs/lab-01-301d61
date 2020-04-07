@@ -1,0 +1,9 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+body {
+    min-width: 480px;
+    color: floralwhite;
+}

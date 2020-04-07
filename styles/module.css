@@ -1,0 +1,45 @@
+nav {
+    width: 100%;    
+    background: skyblue;
+    height: 75px;
+    line-height: 75px;
+    border: 1px solid #333;
+}
+
+aside {
+    background: teal;
+    height: 150px;
+    line-height: 150px;
+    border: 1px solid #333;
+}
+
+article {
+    height: 150px;
+    line-height: 150px;
+    background: seagreen;
+    border: 1px solid #333;
+}
+
+figure {
+    height: 250px;
+    line-height: 250px;
+    width: 50%;
+    background: lightcoral;
+    border: 1px solid #333;
+    float: left;
+}
+
+footer {
+    clear: both;
+    height: 80px;
+    line-height: 80px;
+    background: rgb(0, 117, 98);
+}
+
+@media (min-width: 768px){
+    nav{
+        height: 100px;
+    }
+
+
+}
