@@ -40,6 +40,25 @@ footer {
     nav{
         height: 100px;
     }
-
-
+    aside {
+        float: left;
+        height: 600px;
+        width: 20.083%;
+    }
+    article {
+        height: 200px;
+        float: left;
+        width: 39.9585%;
+    }
+    figure {
+        width: 19.979%;
+        height: 250px;
+    }
+    footer {
+        clear: both;        
+        height: 150px;
+        display: inline-block;
+        width: 79.917%;
+        /* float: left; */
+    }
 }
